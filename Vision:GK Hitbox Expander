@@ -1,0 +1,2 @@
+local player = game.Players.LocalPlayer
+workspace.CharacterFolder[player.Name].GKHitbox.Size = Vector3.new(15, 15, 6)
