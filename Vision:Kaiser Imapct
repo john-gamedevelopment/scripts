@@ -6,6 +6,8 @@
 \__/_/ /_/\___/  /____/\__/\____/_/   \__,_/\__, /\___/   \__,_/_/ /_/_/\__/  
                                            /____/                             
 much love and enjoy <3 - john
+
+YOU NEED 9 DEFENSE TO USE THIS
 ]]--
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/john-gamedevelopment/vision-kaiser-impact/refs/heads/main/kaiser%20impact",true))()
