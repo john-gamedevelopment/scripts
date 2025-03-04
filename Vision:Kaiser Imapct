@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/john-gamedevelopment/vision-kaiser-impact/refs/heads/main/kaiser%20impact",true))()
