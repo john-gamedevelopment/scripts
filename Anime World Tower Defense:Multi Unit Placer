@@ -8,6 +8,6 @@
 much love and enjoy <3 - john
 ]]--
 
-loadstring(game:HttpGet("https://github.com/john-gamedevelopment/beginning/blob/main/yes",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/john-gamedevelopment/beginning/refs/heads/main/yes",true))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/john-gamedevelopment/Anime-World-Tower-Defense-place-1-bazillion-units-one-spot/refs/heads/main/a",true))()
